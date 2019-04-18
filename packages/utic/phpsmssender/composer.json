@@ -1,0 +1,15 @@
+{
+    "name": "utic/phpsmssender",
+    "description": "send sms by php",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "mashape/unirest-php": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "firmin",
+            "email": "firminkp@gmail.com"
+        }
+    ]
+}
